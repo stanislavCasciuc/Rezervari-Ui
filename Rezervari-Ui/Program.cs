@@ -1,15 +1,10 @@
-﻿using RestaurantApp;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System;
 using System.Windows.Forms;
 
-namespace Rezervari_Ui
+namespace RestaurantManager
 {
     static class Program
     {
-      
         [STAThread]
         static void Main()
         {
